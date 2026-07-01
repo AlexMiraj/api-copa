@@ -1,0 +1,6 @@
+git init
+git add app.py scraper.py requirements.txt Procfile .python-version
+git commit -m "BBC World Cup API"
+# crie um repo no GitHub e depois:
+git remote add origin https://github.com/SEU_USER/nome-do-repo.git
+git push -u origin main
